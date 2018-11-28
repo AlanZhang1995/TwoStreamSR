@@ -16,6 +16,6 @@ This code consists of Three parts:
 	* We provide our well-trained model in './ToSR2/step2_train&test/test/TFoutput' dir
 * Some tools maybe useful during experiment
 	* Tools for synthesizing videos from frames without uncompression using ffmpeg
-	* Tools for spliting videos to frames('.png') and calculating optical flow('.mat')
+	* Tools for spliting videos to frames ('.png') and calculating optical flow ('.mat')
 	
-By the way, we use Temporal Segment Network(TSN) and Spacial-Temporal Residual Network(ST-Resnet) to generate recognition accuracy. Please refer to https://github.com/yjxiong/temporal-segment-networks and https://github.com/feichtenhofer/st-resnet for TSN and ST-Resnet code respectively. 
+By the way, we use Temporal Segment Network (TSN) and Spacial-Temporal Residual Network (ST-Resnet) to generate recognition accuracy. Please refer to https://github.com/yjxiong/temporal-segment-networks and https://github.com/feichtenhofer/st-resnet for thier code respectively. 
