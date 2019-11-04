@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdenseflow.a  CMakeFiles/denseflow.dir/src/common.cpp.o CMakeFiles/denseflow.dir/src/dense_flow.cpp.o CMakeFiles/denseflow.dir/src/dense_flow_gpu.cpp.o CMakeFiles/denseflow.dir/src/dense_warp_flow_gpu.cpp.o CMakeFiles/denseflow.dir/src/zip_utils.cpp.o CMakeFiles/denseflow.dir/src/new_dense_flow_gpu.cpp.o
+/usr/bin/ranlib libdenseflow.a
