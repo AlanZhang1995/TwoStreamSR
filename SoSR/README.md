@@ -4,7 +4,7 @@ Our SoSR is implemented with PyTorch and we provide our well-trained model in ht
 
 Train
 ===================
-The only change from ESRGAN to SoSR is the loss function (from MSE to WMSE). Since the author provides both training and testing code in https://github.com/xinntao/BasicSR. We only provide our revised parts as reference.
+The only change from ESRGAN to SoSR is the loss function (from MSE to WMSE). Since the author provides training code in https://github.com/xinntao/BasicSR. We only provide our revised parts as reference.
 
 Test
 ===================
