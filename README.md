@@ -9,11 +9,11 @@ Content
 ===================
 This code consists of Three parts:
 * Training and Testing code of our Spacial-oriented SR
-	* SoSR is implemented with Pytorch based on ESRGAN (https://github.com/xinntao/BasicSR)
-	* We provide our well-trained caffemodel in './SoSR/test/step1_SR_each_frame' dir
+	* SoSR is implemented with PyTorch based on ESRGAN (https://github.com/xinntao/BasicSR)
+	* Our well-trained model can be found in https://pan.baidu.com/s/17D2THJJ_uEWbeU5pYOrchg
 * Training and Testing code of our Temporal-oriented SR
-	* ToSR is implemented with Tensorflow based on VSR-DUF (https://github.com/yhjo09/VSR-DUF)
-	* We provide our well-trained model in './ToSR2/step2_train&test/test/TFoutput' dir
+	* ToSR is implemented with TensorFlow based on VSR-DUF (https://github.com/yhjo09/VSR-DUF)
+	* Please put our well-trained model into './ToSR/step2_train&test/test/TFoutput/model' dir
 * Some tools maybe useful during experiment
 	* Tools for synthesizing videos from frames without compression using ffmpeg
 	* Tools for spliting videos to frames ('.png') and calculating optical flow ('.mat')
