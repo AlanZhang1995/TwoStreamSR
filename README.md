@@ -10,7 +10,7 @@ Content
 This code consists of Three parts:
 * Training and Testing code of our Spacial-oriented SR
 	* SoSR is implemented with PyTorch based on ESRGAN (https://github.com/xinntao/BasicSR)
-	* Our well-trained model can be found in https://pan.baidu.com/s/17D2THJJ_uEWbeU5pYOrchg
+	* Our well-trained model can be found in https://pan.baidu.com/s/17D2THJJ_uEWbeU5pYOrchg or https://drive.google.com/drive/folders/12THb8Jf5IaHU6V0zADVbMZbU1SGqJs0B?usp=sharing
 * Training and Testing code of our Temporal-oriented SR
 	* ToSR is implemented with TensorFlow based on VSR-DUF (https://github.com/yhjo09/VSR-DUF)
 	* Please put our well-trained model (the folder 'VSR-DUF' as well as the files inside it) into './ToSR/step2_train&test/test/TFoutput/model' dir
